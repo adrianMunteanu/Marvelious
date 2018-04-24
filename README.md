@@ -3,7 +3,7 @@
 ## Personas
 
 #### Secondary
-![Secondary](resources/secondary_persona.png)
+![Secondary](Images/secondary_persona.png)
 
 #### Supplemental
-![Supplemental](resources/supplemental_persona.png)
+![Supplemental](Images/supplemental_persona.png)
