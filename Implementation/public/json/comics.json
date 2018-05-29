@@ -1,0 +1,3116 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2018 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2018 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2018 MARVEL</a>",
+  "etag": "6bd57cbafde61e7b9af1d4baebd598db841b2304",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 23580,
+    "count": 20,
+    "results": [
+      {
+        "id": 21461,
+        "digitalId": 9963,
+        "title": "Ultimate Spider-Man (Spanish Language Edition) (2000) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21461",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21461/ultimate_spider-man_spanish_language_edition_2000_1?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=9963&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5105",
+          "name": "Ultimate Spider-Man (Spanish Language Edition) (2000 - 2001)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-03-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bb7bc4c4b2b0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bb7bc4c4b2b0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+              "name": "Spider-Man (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48958",
+              "name": "Cover #48958",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48959",
+              "name": "Interior #48959",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21479,
+        "digitalId": 9964,
+        "title": "Ultimate X-Men (Spanish Language Edition) (2000) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 52,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21479",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21479/ultimate_x-men_spanish_language_edition_2000_1?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=9964&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5106",
+          "name": "Ultimate X-Men (Spanish Language Edition) (2000 - 2009)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-03-27T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb7bc46cf72a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb7bc46cf72a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21479/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21479/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+              "name": "X-Men (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21479/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48984",
+              "name": "Cover #48984",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48985",
+              "name": "Interior #48985",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21479/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22098,
+        "digitalId": 10098,
+        "title": "Marvel's Greatest Heroes Sampler (2008) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22098",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22098/marvels_greatest_heroes_sampler_2008_1?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10098&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5847",
+          "name": "Marvel's Greatest Heroes Sampler (2008)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-07-09T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb6ecf441158",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb6ecf441158",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22098/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22098/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22098/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48844",
+              "name": "Cover #48844",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48845",
+              "name": "Interior #48845",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22098/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 66030,
+        "digitalId": 47922,
+        "title": "AVENGERS: SOLO ACT Presented by DISNEY CHILD LIFE  (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Hawkeye learns that sometimes even super heroes need help from their friends. Especially if your friends happen to be the mighty Avengers.",
+        "modified": "2018-03-02T16:37:31-0500",
+        "isbn": "",
+        "upc": "75960605301808786",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 8,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hawkeye learns that sometimes even super heroes need help from their friends. Especially if your friends happen to be the mighty Avengers."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/66030",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/66030/avengers_solo_act_presented_by_disney_child_life_2018_1?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47922&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23953",
+          "name": "AVENGERS: SOLO ACT Presented by DISNEY CHILD LIFE  (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-03-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-02-19T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-03-02T16:37:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5a8f2f5ab34d9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5a8f2f5ab34d9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66030/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12919",
+              "name": "Katherine Brown",
+              "role": "project manager"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8260",
+              "name": "Craig Rousseau",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+              "name": "Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12757",
+              "name": "Darren Sanchez",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+              "name": "Marc Sumerak",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66030/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+              "name": "Vision"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+              "name": "Wasp"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66030/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143186",
+              "name": "cover from Custom Disney Child Life 2017 English Quadfold (2018) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143187",
+              "name": "story from Custom Disney Child Life 2017 English Quadfold (2018) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66030/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64691,
+        "digitalId": 47535,
+        "title": "Black Panther: Soul of a Machine – Chapter Six (2018)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Bold Style: Machinesmith has infected all the tech in Birnin Bashenga. Can Black Panther, the Wakandan scientists and the Takumi Masters manage to scramble Machinesmith’s control of the machines before it’s too late?",
+        "modified": "2018-01-12T08:27:14-0500",
+        "isbn": "",
+        "upc": "75960605301808707",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 10,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Bold Style: Machinesmith has infected all the tech in Birnin Bashenga. Can Black Panther, the Wakandan scientists and the Takumi Masters manage to scramble Machinesmith’s control of the machines before it’s too late?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64691",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64691/black_panther_soul_of_a_machine_chapter_six_2018?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47535&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23567",
+          "name": "Black Panther: Soul of a Machine – Chapter Six (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-01-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-12-13T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-01-12T08:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5a34584dcdc70",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5a34584dcdc70",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64691/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12847",
+              "name": "Chuck Brown",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12919",
+              "name": "Katherine Brown",
+              "role": "project manager"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13096",
+              "name": "Jose L. Giles",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12757",
+              "name": "Darren Sanchez",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64691/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64691/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140431",
+              "name": "cover from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140432",
+              "name": "story from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64691/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64693,
+        "digitalId": 47537,
+        "title": "Black Panther: Soul of a Machine – Chapter Eight (2018)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Bravery: The prototype vehicle is ready, and Black Panther must get behind the wheel in a race for the fate of Wakanda…and the world. But is the vehicle as smart and as fast as Machinesmith? The thrilling conclusion to the epic story, SOUL OF A MACHINE.",
+        "modified": "2018-01-12T08:27:14-0500",
+        "isbn": "",
+        "upc": "75960605301808709",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 10,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Bravery: The prototype vehicle is ready, and Black Panther must get behind the wheel in a race for the fate of Wakanda…and the world. But is the vehicle as smart and as fast as Machinesmith? The thrilling conclusion to the epic story, SOUL OF A MACHINE."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64693",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64693/black_panther_soul_of_a_machine_chapter_eight_2018?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47537&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23569",
+          "name": "Black Panther: Soul of a Machine – Chapter Eight (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-01-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-12-13T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-01-12T08:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5a37df9f17281",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5a37df9f17281",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64693/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12757",
+              "name": "Darren Sanchez",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/474",
+              "name": "Andrea DI Vito",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64693/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64693/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140435",
+              "name": "cover from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140436",
+              "name": "story from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64693/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64690,
+        "digitalId": 47536,
+        "title": "Black Panther: Soul of a Machine – Chapter Five (2018)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Imaginative: The battle against Machinesmith is taken to the virtual world as the Takumi Master and Wakandan scientists attempt risky virtual attacks on the digital invader. But will the sacrifice be worth it?",
+        "modified": "2018-01-12T08:27:14-0500",
+        "isbn": "",
+        "upc": "75960605301808706",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 10,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Imaginative: The battle against Machinesmith is taken to the virtual world as the Takumi Master and Wakandan scientists attempt risky virtual attacks on the digital invader. But will the sacrifice be worth it?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64690",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64690/black_panther_soul_of_a_machine_chapter_five_2018?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47536&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23566",
+          "name": "Black Panther: Soul of a Machine – Chapter Five (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-01-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-12-13T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-01-12T08:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a34585aa485e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a34585aa485e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64690/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13155",
+              "name": "Mike Bowden",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12919",
+              "name": "Katherine Brown",
+              "role": "project manager"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12978",
+              "name": "Roberto Poggi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12757",
+              "name": "Darren Sanchez",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64690/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64690/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140429",
+              "name": "cover from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140430",
+              "name": "story from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64690/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64692,
+        "digitalId": 47534,
+        "title": "Black Panther: Soul of a Machine – Chapter Seven (2018)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Exhilarating Performance: Machinesmith has taken control of all mechanical systems of Wakanda and is determined to next take over the entire planet. Will the resistance forces of Wakanda have time to deploy the prototype?",
+        "modified": "2018-01-12T08:27:14-0500",
+        "isbn": "",
+        "upc": "75960605301808708",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 10,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Exhilarating Performance: Machinesmith has taken control of all mechanical systems of Wakanda and is determined to next take over the entire planet. Will the resistance forces of Wakanda have time to deploy the prototype?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64692",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64692/black_panther_soul_of_a_machine_chapter_seven_2018?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47534&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23568",
+          "name": "Black Panther: Soul of a Machine – Chapter Seven (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-01-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-12-13T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-01-12T08:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a3458204a8f9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a3458204a8f9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64692/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12919",
+              "name": "Katherine Brown",
+              "role": "project manager"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/745",
+              "name": "Yvel Guichet",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12978",
+              "name": "Roberto Poggi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12757",
+              "name": "Darren Sanchez",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12886",
+              "name": "Geoffrey Thorne",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64692/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64692/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140433",
+              "name": "cover from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140434",
+              "name": "story from Custom Promo Lexus 2017 Black Panther GN Print Ready File (2017) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64692/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65381,
+        "digitalId": 46983,
+        "title": "Marvel Universe Avengers Assemble: Civil War (2017) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Captain America takes a stand against Iron Man! It's time: whose side are you on in this super hero Civil War?",
+        "modified": "2017-11-21T18:18:44-0500",
+        "isbn": "",
+        "upc": "759606089421000411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 1,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Captain America takes a stand against Iron Man! It's time: whose side are you on in this super hero Civil War?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65381",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65381/marvel_universe_avengers_assemble_civil_war_2017_4?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23798",
+          "name": "Marvel Universe Avengers Assemble: Civil War (2017 - 2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2017-11-28T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5a14b3b63f319",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5a14b3b63f319",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65381/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "various",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65381/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65381/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141882",
+              "name": "cover from Marvel Universe Avengers Assemble: Civil War (Digital Comic) (2017) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141883",
+              "name": "story from Marvel Universe Avengers Assemble: Civil War (Digital Comic) (2017) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65381/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65089,
+        "digitalId": 46398,
+        "title": "Not Brand Echh (2017) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": "FORBUSH MAN RETURNS Part 1. Get ready to break the internet, folks, because FORBUSH MAN IS BACK – and he’s ready to take over the comics industry! Meanwhile, Captain America, Gwenpool, and more are…not quite themselves these days. Featuring stories by NICK SPENCER (SECRET EMPIRE, CAPTAIN AMERICA) CHRISTOPHER HASTINGS (GWENPOOL, VOTE LOKI) JAY FOSGITT (My Little Pony, Bodie Troll) and many, many more!",
+        "modified": "2018-05-17T13:11:50-0400",
+        "isbn": "",
+        "upc": "75960608826300111",
+        "diamondCode": "SEP170886",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "FORBUSH MAN RETURNS Part 1. Get ready to break the internet, folks, because FORBUSH MAN IS BACK – and he’s ready to take over the comics industry! Meanwhile, Captain America, Gwenpool, and more are…not quite themselves these days. Featuring stories by NICK SPENCER (SECRET EMPIRE, CAPTAIN AMERICA) CHRISTOPHER HASTINGS (GWENPOOL, VOTE LOKI) JAY FOSGITT (My Little Pony, Bodie Troll) and many, many more!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65089",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65089/not_brand_echh_2017_14?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/NOT-BRAND-ECHH-14-14/digital-comic/46398?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46398&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46398?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23677",
+          "name": "Not Brand Echh (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5a034b3043ffc",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5a034b3043ffc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/599f082fe8ae1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 16,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65089/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12975",
+              "name": "Heather Antos",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13231",
+              "name": "Brian Churilla",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12375",
+              "name": "Katie Cook",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13010",
+              "name": "Nick Filardi",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12910",
+              "name": "Jay Fosgitt",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13006",
+              "name": "G Gurihiru",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13207",
+              "name": "Chris O'halloran",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+              "name": "Chip Zdarsky",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12988",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12992",
+              "name": "Christopher Hastings",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13084",
+              "name": "Nicholas Kocher",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12465",
+              "name": "Ryan North",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12464",
+              "name": "Erica Henderson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+              "name": "David Nakayama",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 16
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65089/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65089/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141270",
+              "name": "cover from Not Brand Echh (2017) #14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141271",
+              "name": "story from Not Brand Echh (2017) #14",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65089/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 61287,
+        "digitalId": 46313,
+        "title": "Hawkeye (2016) #12",
+        "issueNumber": 12,
+        "variantDescription": "",
+        "description": "Hawkeye’s latest showdown with Madame Masque has left her fed up with clones — and all of the shenanigans surrounding them. So when Laura Kinney, the All-New Wolverine, shows up in L.A. on the hunt for a mad scientist bent on creating an army of Wolverine clones, Kate volunteers the services of Hawkeye Investigations.",
+        "modified": "2017-11-08T15:51:00-0500",
+        "isbn": "",
+        "upc": "75960608598901211",
+        "diamondCode": "SEP170944",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hawkeye’s latest showdown with Madame Masque has left her fed up with clones — and all of the shenanigans surrounding them. So when Laura Kinney, the All-New Wolverine, shows up in L.A. on the hunt for a mad scientist bent on creating an army of Wolverine clones, Kate volunteers the services of Hawkeye Investigations."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/61287",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/61287/hawkeye_2016_12?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Hawkeye-12/digital-comic/46313?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46313&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46313?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22533",
+          "name": "Hawkeye (2016 - 2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5a034ab96e371",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5a034ab96e371",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/599f06ee12533",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61287/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+              "name": "Alanna Smith",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13221",
+              "name": "Julian Tedesco",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12393",
+              "name": "Michael Walsh",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61287/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010808",
+              "name": "Hawkeye (Kate Bishop)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009722",
+              "name": "X-23"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61287/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132978",
+              "name": "cover from Hawkeye (2016) #12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132979",
+              "name": "story from Hawkeye (2016) #12",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61287/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65068,
+        "digitalId": 46393,
+        "title": "Defenders (2017) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "KINGPINS OF NEW YORK Part 2. The Kingpin’s kingdom is up for grabs and the streets of Marvel will burn as every major crime figure makes a play to be the next kingpin of crime! Unfortunately for them, this is exactly why the Defenders have gathered — to defend our streets and make them a safer place!",
+        "modified": "2017-11-08T15:30:16-0500",
+        "isbn": "",
+        "upc": "75960608667200711",
+        "diamondCode": "SEP170915",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "KINGPINS OF NEW YORK Part 2. The Kingpin’s kingdom is up for grabs and the streets of Marvel will burn as every major crime figure makes a play to be the next kingpin of crime! Unfortunately for them, this is exactly why the Defenders have gathered — to defend our streets and make them a safer place!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65068",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65068/defenders_2017_7?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Defenders-7/digital-comic/46393?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46393&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46393?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23074",
+          "name": "Defenders (2017 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5a03492328b07",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5a03492328b07",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/599ef437213aa",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65068/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+              "name": "David Marquez",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+              "name": "Justin Ponsor",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65068/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+              "name": "Elektra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+              "name": "Iron Fist (Danny Rand)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009378",
+              "name": "Jessica Jones"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009389",
+              "name": "Kingpin"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+              "name": "Luke Cage"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65068/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141228",
+              "name": "cover from Defenders (2017) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141229",
+              "name": "story from Defenders (2017) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65068/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65066,
+        "digitalId": 46356,
+        "title": "Darth Vader (2017) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "LEGACY’S END BEGINS! As Vader takes his place in command of the Emperor’s secret Inquisitorius Program, he sets his sights on one of the most dangerous Jedi remaining alive…and it’s not who you’d expect.",
+        "modified": "2017-11-08T15:27:35-0500",
+        "isbn": "",
+        "upc": "75960608666500811",
+        "diamondCode": "SEP170974",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "LEGACY’S END BEGINS! As Vader takes his place in command of the Emperor’s secret Inquisitorius Program, he sets his sights on one of the most dangerous Jedi remaining alive…and it’s not who you’d expect."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65066",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65066/darth_vader_2017_8?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Darth-Vader-8/digital-comic/46356?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46356&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46356?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23095",
+          "name": "Darth Vader (2017 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5a034a0369bff",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5a034a0369bff",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/599f0cc235dbe",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65066/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+              "name": "Giuseppe Camuncoli",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12982",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "name": "David Curiel",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+              "name": "Francesco Mattina",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13249",
+              "name": "Daniele Orlandini",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+              "name": "Charles Soule",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65066/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65066/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141224",
+              "name": "cover from Darth Vader (2017) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141225",
+              "name": "story from Darth Vader (2017) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65066/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65090,
+        "digitalId": 46399,
+        "title": "Peter Parker: The Spectacular Spider-Man (2017) #297",
+        "issueNumber": 297,
+        "variantDescription": "",
+        "description": "MOST WANTED Part 1. Peter Parker is back in the friendly neighborhood, but he’s persona non grata as far as the NYPD is concerned! It’s the ol’ switcheroo as we here at the House of Ideas ask that classic question – PETER PARKER: THREAT OR MENACE?! PLUS: Includes 3 bonus MARVEL PRIMER PAGES!",
+        "modified": "2017-11-08T16:20:49-0500",
+        "isbn": "",
+        "upc": "759606088141029711",
+        "diamondCode": "SEP170827",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MOST WANTED Part 1. Peter Parker is back in the friendly neighborhood, but he’s persona non grata as far as the NYPD is concerned! It’s the ol’ switcheroo as we here at the House of Ideas ask that classic question – PETER PARKER: THREAT OR MENACE?! PLUS: Includes 3 bonus MARVEL PRIMER PAGES!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65090",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65090/peter_parker_the_spectacular_spider-man_2017_297?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Peter-Parker-The-Spectacular-Spider-Man-297/digital-comic/46399?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46399&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46399?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23101",
+          "name": "Peter Parker: The Spectacular Spider-Man (2017 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/5a034aff0a4de",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/5a034aff0a4de",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/599f08a1f3bd7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65090/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12624",
+              "name": "Juan Frigeri",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+              "name": "Chip Zdarsky",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65090/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65090/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141272",
+              "name": "cover from Peter Parker: The Spectacular Spider-Man (2017) #297",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141273",
+              "name": "story from Peter Parker: The Spectacular Spider-Man (2017) #297",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65090/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65114,
+        "digitalId": 46406,
+        "title": "X-Men: Blue (2017) #15",
+        "issueNumber": 15,
+        "variantDescription": "",
+        "description": "MOJO WORLDWIDE CONCLUSION! In MOJOWORLD, JEAN GREY and her X-Men teammates take the fight to MOJO! But Mojo’s there with a hometown advantage, so this fight is far from over. Can the X-MEN prevail and stop the absolutely absurd Mojo-ification of midtown Manhattan?",
+        "modified": "2017-11-08T16:38:14-0500",
+        "isbn": "",
+        "upc": "75960608650401511",
+        "diamondCode": "SEP170929",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MOJO WORLDWIDE CONCLUSION! In MOJOWORLD, JEAN GREY and her X-Men teammates take the fight to MOJO! But Mojo’s there with a hometown advantage, so this fight is far from over. Can the X-MEN prevail and stop the absolutely absurd Mojo-ification of midtown Manhattan?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65114",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65114/x-men_blue_2017_15?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Blue-15/digital-comic/46406?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46406&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46406?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23018",
+          "name": "X-Men: Blue (2017 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5a034b3e84c13",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5a034b3e84c13",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/599f0e935b9f2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65114/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13180",
+              "name": "Federico Blee",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+              "name": "Cullen Bunn",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12982",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+              "name": "Jorge Molina",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65114/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+              "name": "Kitty Pryde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009408",
+              "name": "Longshot"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009448",
+              "name": "Mojo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65114/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141320",
+              "name": "cover from X-Men: Blue (2017) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141321",
+              "name": "story from X-Men: Blue (2017) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65114/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 61455,
+        "digitalId": 46312,
+        "title": "Champions (2016) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": "WORLDS COLLIDE Part 4. THE ELECTRIFYING TEAM-UP BETWEEN THE AVENGERS AND THE CHAMPIONS CONTINUES! The High Evolutionary is on a suicide course — and he plans to take billions of people from two worlds with him! How can even the Champions and the Avengers together save an entire planet from destruction?",
+        "modified": "2017-11-08T15:24:43-0500",
+        "isbn": "",
+        "upc": "75960608607801411",
+        "diamondCode": "SEP170901",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "WORLDS COLLIDE Part 4. THE ELECTRIFYING TEAM-UP BETWEEN THE AVENGERS AND THE CHAMPIONS CONTINUES! The High Evolutionary is on a suicide course — and he plans to take billions of people from two worlds with him! How can even the Champions and the Avengers together save an entire planet from destruction?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/61455",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/61455/champions_2016_14?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Champions-14/digital-comic/46312?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46312&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46312?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22552",
+          "name": "Champions (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5a0349c28d253",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5a0349c28d253",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/599ef3f9144ec",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61455/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12988",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+              "name": "Victor Olazaba",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+              "name": "Humberto Ramos",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61455/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010756",
+              "name": "Champions"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+              "name": "Vision"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61455/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/133339",
+              "name": "cover from Champions (2016) #14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/133340",
+              "name": "story from Champions (2016) #14",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61455/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65106,
+        "digitalId": 46402,
+        "title": "Star Wars: Doctor Aphra (2016) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": "Doctor Aphra’s antics are causing mayhem once again… But is she really the one calling the shots?",
+        "modified": "2017-11-08T16:25:36-0500",
+        "isbn": "",
+        "upc": "759606086291001411",
+        "diamondCode": "SEP170980",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Doctor Aphra’s antics are causing mayhem once again… But is she really the one calling the shots?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65106",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65106/star_wars_doctor_aphra_2016_14?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Star-Wars-Doctor-Aphra-14/digital-comic/46402?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46402&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46402?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22719",
+          "name": "Star Wars: Doctor Aphra (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5a0349f67c4d4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5a0349f67c4d4",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/599f0b4b914d0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65106/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12982",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12817",
+              "name": "Emilio Laiso",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13136",
+              "name": "Ashley Witter",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65106/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65106/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141304",
+              "name": "cover from Star Wars: Doctor Aphra (2016) #14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141305",
+              "name": "story from Star Wars: Doctor Aphra (2016) #14",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65106/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64963,
+        "digitalId": 46075,
+        "title": "Spider-Men II (2017) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Miles vs. Miles! The chaos of the moment is threatening to tear Peter’s life apart. Can he possibly allow Miles to continue on as Spider-Man?! Does Peter even have a choice anymore?",
+        "modified": "2017-11-08T16:24:13-0500",
+        "isbn": "",
+        "upc": "75960608698600411",
+        "diamondCode": "AUG170945",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Miles vs. Miles! The chaos of the moment is threatening to tear Peter’s life apart. Can he possibly allow Miles to continue on as Spider-Man?! Does Peter even have a choice anymore?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64963",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64963/spider-men_ii_2017_4?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Men-II-4/digital-comic/46075?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46075&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46075?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23251",
+          "name": "Spider-Men II (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5a034a8b47fea",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5a034a8b47fea",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/597fa89690b91",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64963/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+              "name": "Morry Hollowell",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+              "name": "Sara Pichelli",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+              "name": "Justin Ponsor",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64963/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64963/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140975",
+              "name": "cover from Spider-Men II (2017) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140976",
+              "name": "story from Spider-Men II (2017) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64963/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65078,
+        "digitalId": 46395,
+        "title": "Incredible Hulk (2017) #710",
+        "issueNumber": 710,
+        "variantDescription": "",
+        "description": "RETURN TO PLANET HULK Part 2. Stranded on Sakaar, Amadeus Cho must embrace the savage Hulk within himself if he’s to survive the barbaric planet... But who sent the mysterious call for help that brought him to this deadly planet? Can Cho conquer a series of impossible trials known as THE GAUNTLET, or will it conquer him?",
+        "modified": "2017-11-08T15:53:54-0500",
+        "isbn": "",
+        "upc": "75960608769371011",
+        "diamondCode": "SEP170902",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "RETURN TO PLANET HULK Part 2. Stranded on Sakaar, Amadeus Cho must embrace the savage Hulk within himself if he’s to survive the barbaric planet... But who sent the mysterious call for help that brought him to this deadly planet? Can Cho conquer a series of impossible trials known as THE GAUNTLET, or will it conquer him?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65078",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65078/incredible_hulk_2017_710?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Incredible-Hulk-710/digital-comic/46395?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46395&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46395?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23635",
+          "name": "Incredible Hulk (2017 - 2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5a034b22736c7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5a034b22736c7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/599f06d4e6663",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65078/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'ARMATA",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+              "name": "Greg Land",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+              "name": "Jay Leisten",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+              "name": "Greg Pak",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65078/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011227",
+              "name": "Amadeus Cho"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65078/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141248",
+              "name": "cover from Incredible Hulk (2017) #710",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141249",
+              "name": "story from Incredible Hulk (2017) #710",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65078/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65057,
+        "digitalId": 46391,
+        "title": "Ben Reilly: Scarlet Spider (2017) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "THE SLINGERS RETURN Part 1. Ben Reilly, A.K.A. The Scarlet Spider, is a perfect clone of The Amazing Spider-Man… but with none of the responsibility! And now, someone’s encroaching on his turf in Vegas – the new Hornet! But who is he working for, and what will his former Slingers teammates – Dusk, Prodigy, and Ricochet – have to say about it?! PLUS: Includes 3 bonus MARVEL PRIMER PAGES!",
+        "modified": "2017-11-08T15:21:02-0500",
+        "isbn": "",
+        "upc": "75960608665801011",
+        "diamondCode": "SEP170823",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "THE SLINGERS RETURN Part 1. Ben Reilly, A.K.A. The Scarlet Spider, is a perfect clone of The Amazing Spider-Man… but with none of the responsibility! And now, someone’s encroaching on his turf in Vegas – the new Hornet! But who is he working for, and what will his former Slingers teammates – Dusk, Prodigy, and Ricochet – have to say about it?! PLUS: Includes 3 bonus MARVEL PRIMER PAGES!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65057",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65057/ben_reilly_scarlet_spider_2017_10?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ben-Reilly-Scarlet-Spider-10/digital-comic/46391?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=46391&utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/46391?utm_campaign=apiRef&utm_source=da412a3014cb153529d086d0156fb2f2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23021",
+          "name": "Ben Reilly: Scarlet Spider (2017 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-11-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-10-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-05-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-11-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5a0349b8199fa",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5a0349b8199fa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/599ef065594ec",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65057/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12982",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+              "name": "Peter David",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13036",
+              "name": "Emilio Lopez",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/613",
+              "name": "Khary Randolph",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12999",
+              "name": "Will Sliney",
+              "role": "inker"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65057/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011197",
+              "name": "Scarlet Spider (Ben Reilly)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65057/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141206",
+              "name": "cover from Ben Reilly: Scarlet Spider (2017) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141207",
+              "name": "story from Ben Reilly: Scarlet Spider (2017) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65057/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

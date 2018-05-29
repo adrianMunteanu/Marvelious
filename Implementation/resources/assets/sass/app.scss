@@ -1,0 +1,24 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Required Core Stylesheet
+@import "~@glidejs/glide/src/assets/sass/glide.core";
+
+// Optional Theme Stylesheet
+@import "~@glidejs/glide/src/assets/sass/glide.theme";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.logo {
+  max-width: 140px;
+}
