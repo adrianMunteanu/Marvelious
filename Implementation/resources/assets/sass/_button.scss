@@ -1,0 +1,78 @@
+.button {
+  font-size: 1em;
+  padding: .375em 1.125em;
+  color: #000;
+  background-color: #fff;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: inherit;
+  text-decoration: none;
+  outline: 0;
+  font-weight: 400;
+  text-align: center;
+  border-radius: 1.6875rem;
+  border: 2px solid transparent;
+}
+
+.button--large {
+  font-size: 20px;
+}
+
+.button--hollow {
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #969fb3;
+}
+
+.button {
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.button:active, .button:focus, .button:hover {
+  color: #000;
+  background-color: #c1cde5;
+  text-decoration: none;
+}
+
+.button--hollow:active, .button--hollow:focus, .button--hollow:hover {
+  background-color: transparent;
+  color: #fff;
+  border-color: #f44336;
+}
+
+.button:hover {
+  -webkit-box-shadow: 0 0.5rem 1.5rem 0 rgba(0, 0, 0, .2);
+  box-shadow: 0 0.5rem 1.5rem 0 rgba(0, 0, 0, .2);
+}
+
+.button--primary {
+  color: #fff;
+  background-color: #f44336;
+}
+
+.button--primary:active, .button--primary:focus, .button--primary:hover {
+  color: #fff;
+  background-color: #cd3c31;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.input {
+  background-color: transparent;
+  border: 1px solid #32333f;
+  padding: .5em;
+  color: #fff;
+  font-size: .8em;
+  border-radius: 0;
+}
+
+.input--block {
+  width: 100%;
+}

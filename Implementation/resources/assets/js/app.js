@@ -9,6 +9,7 @@ import Glide from '@glidejs/glide';
 require('./bootstrap');
 
 window.Vue = require('vue');
+window.Glide = Glide;
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
@@ -16,16 +17,10 @@ window.Vue = require('vue');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-Vue.component('example-component', require('./components/ExampleComponent.vue'));
+// Vue.component('example-component', require('./components/ExampleComponent.vue'));
+//
+// const app = new Vue({
+//     el: '#app'
+// });
 
-const app = new Vue({
-    el: '#app'
-});
-
-new Glide('.glide', {
-    type: 'carousel',
-    autoplay: 2000,
-    perView: 4,
-    focusAt: 'center',
-    peek: 100
-}).mount();
+require('./home-slider');

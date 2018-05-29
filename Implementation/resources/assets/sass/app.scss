@@ -14,11 +14,76 @@
 // Optional Theme Stylesheet
 @import "~@glidejs/glide/src/assets/sass/glide.theme";
 
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-}
+@import "carousel";
+@import "navbar";
+@import "button";
 
 .logo {
   max-width: 140px;
 }
+
+body {
+  color: #818999;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(180deg, #05070b 0, #17171d);
+}
+
+.home-lead {
+  line-height: 1.8em;
+}
+
+.heading {
+  color: #fff;
+  font-weight: 600;
+  font-family: Lato, sans-serif;
+  letter-spacing: 1px;
+}
+
+.heading-2 {
+  color: #bcc1cc;
+}
+
+h4 {
+  font-size: 20px;
+  line-height: 1.25;
+}
+
+.list--unstyle {
+  list-style-type: none;
+  margin-bottom: 0;
+  padding-left: 0;
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 1.5em;
+}
+
+.ellipsis {
+  width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.list--unstyle li {
+  margin-top: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+hr {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-top: 1px solid #32333f;
+}
+
+.normalize-link {
+  color: inherit;
+}
+
+.normalize-link:hover {
+  color: #f44336;
+}
+
