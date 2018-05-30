@@ -10706,12 +10706,6 @@ a.text-dark:focus {
   margin-top: -30px;
 }
 
-@media (max-width: 42.4375em) {
-  .slider--big .slider__arrow {
-    position: static;
-  }
-}
-
 .slider--big .slider__arrow--next {
   right: 3rem;
 }
@@ -10866,6 +10860,11 @@ a.text-dark:focus {
   box-shadow: 0 0.5rem 1.5rem 0 rgba(0, 0, 0, 0.2);
 }
 
+.button--block {
+  width: 100%;
+  display: block;
+}
+
 .button--primary {
   color: #fff;
   background-color: #f44336;
@@ -10891,7 +10890,7 @@ a.text-dark:focus {
 .input {
   background-color: transparent;
   border: 1px solid #32333f;
-  padding: .5em;
+  padding: .2em .6em;
   color: #fff;
   font-size: .8em;
   border-radius: 0;
@@ -11328,5 +11327,9 @@ hr {
 
 .normalize-link:hover {
   color: #f44336;
+}
+
+.sticky {
+  position: fixed;
 }
 

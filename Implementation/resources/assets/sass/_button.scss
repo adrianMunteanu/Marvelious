@@ -48,6 +48,11 @@
   box-shadow: 0 0.5rem 1.5rem 0 rgba(0, 0, 0, .2);
 }
 
+.button--block {
+  width: 100%;
+  display: block;
+}
+
 .button--primary {
   color: #fff;
   background-color: #f44336;
@@ -67,7 +72,7 @@
 .input {
   background-color: transparent;
   border: 1px solid #32333f;
-  padding: .5em;
+  padding: .2em .6em;
   color: #fff;
   font-size: .8em;
   border-radius: 0;

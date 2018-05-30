@@ -17,10 +17,11 @@ window.Glide = Glide;
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-// Vue.component('example-component', require('./components/ExampleComponent.vue'));
+Vue.component('comic-list', require('./components/ComicList.vue'));
 //
-// const app = new Vue({
-//     el: '#app'
-// });
+const app = new Vue({
+    el: '#vue-app'
+});
 
 require('./home-slider');
+require('./fixed');
