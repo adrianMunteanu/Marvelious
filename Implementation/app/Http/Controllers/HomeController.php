@@ -47,4 +47,19 @@ class HomeController extends Controller
 
         return view('character', ['character' => $response->data->results[0], 'comics' => $comics->data->results]);
     }
+
+    /**
+     * Show the application dashboard.
+     *
+     * @param $id
+     * @return \Illuminate\Http\Response
+     */
+    public function events()
+    {
+        $response = json_decode(file_get_contents(public_path('json/comics.json')));
+
+//        dd($response->data->results);
+
+        return view('events', ['comics' => $response->data->results]);
+    }
 }

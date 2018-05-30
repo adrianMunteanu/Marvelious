@@ -8,24 +8,51 @@
                     <h4 class="heading">Filters</h4>
                     <ul class="list--unstyle pr-5">
                         <li>
-                            Title
-                            <i class="fas fa-chevron-circle-down"></i>
+                            <a class="normalize-link no-decoration" data-toggle="collapse" href="#titleFilter" role="button" aria-expanded="false" aria-controls="titleFilter">
+                                Title
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </a>
+                            <div class="collapse pt-1" id="titleFilter">
+                                <input class="input input--block" type="text">
+                            </div>
                         </li>
                         <li>
-                            Characters
-                            <i class="fas fa-chevron-circle-down"></i>
+                            <a class="normalize-link no-decoration" data-toggle="collapse" href="#charactersFilter" role="button" aria-expanded="false" aria-controls="charactersFilter">
+                                Characters
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </a>
+                            <div class="collapse pt-1" id="charactersFilter">
+                                <input class="input input--block" type="text">
+                            </div>
                         </li>
                         <li>
-                            Series
-                            <i class="fas fa-chevron-circle-down"></i>
+                            <a class="normalize-link no-decoration" data-toggle="collapse" href="#seriesFilter" role="button" aria-expanded="false" aria-controls="seriesFilter">
+                                Series
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </a>
+                            <div class="collapse pt-1" id="seriesFilter">
+                                <input class="input input--block" type="text">
+                            </div>
                         </li>
                         <li>
-                            Date Range
-                            <i class="fas fa-chevron-circle-down"></i>
+                            <a class="normalize-link no-decoration" data-toggle="collapse" href="#dateFilter" role="button" aria-expanded="false" aria-controls="dateFilter">
+                                Date Range
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </a>
+                            <div class="collapse pt-1" id="dateFilter">
+                                <input class="input input--block" type="text">
+                                <div class="text-center">to</div>
+                                <input class="input input--block" type="text">
+                            </div>
                         </li>
                         <li>
-                            Ratings
-                            <i class="fas fa-chevron-circle-down"></i>
+                            <a class="normalize-link no-decoration" data-toggle="collapse" href="#ratingFilter" role="button" aria-expanded="false" aria-controls="ratingFilter">
+                                Ratings
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </a>
+                            <div class="collapse pt-1" id="ratingFilter">
+                                <input class="input input--block" type="text">
+                            </div>
                         </li>
                     </ul>
                 </div>
