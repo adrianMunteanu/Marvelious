@@ -60,48 +60,48 @@
                         <li>
                             <a class="normalize-link no-decoration" data-toggle="collapse" href="#titleFilter" role="button" aria-expanded="false" aria-controls="titleFilter">
                                 Title
-                                <i class="fas fa-chevron-circle-down"></i>
+                                <span class="fas fa-chevron-circle-down"></span>
                             </a>
                             <div class="collapse pt-1" id="titleFilter">
-                                <input class="input input--block" type="text">
+                                <input title="Title filter" class="input input--block" type="text">
                             </div>
                         </li>
                         <li>
                             <a class="normalize-link no-decoration" data-toggle="collapse" href="#charactersFilter" role="button" aria-expanded="false" aria-controls="charactersFilter">
                                 Characters
-                                <i class="fas fa-chevron-circle-down"></i>
+                                <span class="fas fa-chevron-circle-down"></span>
                             </a>
                             <div class="collapse pt-1" id="charactersFilter">
-                                <input class="input input--block" type="text">
+                                <input title="Characters filter" class="input input--block" type="text">
                             </div>
                         </li>
                         <li>
                             <a class="normalize-link no-decoration" data-toggle="collapse" href="#seriesFilter" role="button" aria-expanded="false" aria-controls="seriesFilter">
                                 Series
-                                <i class="fas fa-chevron-circle-down"></i>
+                                <span class="fas fa-chevron-circle-down"></span>
                             </a>
                             <div class="collapse pt-1" id="seriesFilter">
-                                <input class="input input--block" type="text">
+                                <input title="Series filter" class="input input--block" type="text">
                             </div>
                         </li>
                         <li>
                             <a class="normalize-link no-decoration" data-toggle="collapse" href="#dateFilter" role="button" aria-expanded="false" aria-controls="dateFilter">
                                 Date Range
-                                <i class="fas fa-chevron-circle-down"></i>
+                                <span class="fas fa-chevron-circle-down"></span>
                             </a>
                             <div class="collapse pt-1" id="dateFilter">
-                                <input class="input input--block" type="text">
+                                <input title="Date from" class="input input--block" type="text">
                                 <div class="text-center">to</div>
-                                <input class="input input--block" type="text">
+                                <input title="Date to" class="input input--block" type="text">
                             </div>
                         </li>
                         <li>
                             <a class="normalize-link no-decoration" data-toggle="collapse" href="#ratingFilter" role="button" aria-expanded="false" aria-controls="ratingFilter">
                                 Ratings
-                                <i class="fas fa-chevron-circle-down"></i>
+                                <span class="fas fa-chevron-circle-down"></span>
                             </a>
                             <div class="collapse pt-1" id="ratingFilter">
-                                <input class="input input--block" type="text">
+                                <input title="Rating filter" class="input input--block" type="text">
                             </div>
                         </li>
                     </ul>
@@ -114,9 +114,9 @@
                                     <a class="normalize-link d-block" href="{{ route('comic', ['id' => $comic->id]) }}">
                                         <img class="img-fluid mb-2" src="{{ $comic->thumbnail->path }}/portrait_uncanny.{{ $comic->thumbnail->extension }}" alt="{{ $comic->title }}">
                                     </a>
-                                    <h6 class="heading ellipsis mb-0">
+                                    <div class="heading ellipsis mb-0">
                                         <a class="normalize-link" href="{{ route('comic', ['id' => $comic->id]) }}" title="{{ $comic->title }}">{{ $comic->title }}</a>
-                                    </h6>
+                                    </div>
                                     <p>{{ collect($comic->characters->items)->pluck('name')->take(2)->implode(', ') }}</p>
                                 </div>
                             @endforeach
