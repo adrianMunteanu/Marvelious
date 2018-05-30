@@ -19,6 +19,7 @@ Auth::routes();
 
 Route::get('home', 'HomeController@index')->name('home');
 Route::get('comics', 'HomeController@index')->name('comics');
+Route::get('comics/{id}', 'HomeController@comic')->name('comic');
 Route::get('events', 'HomeController@events')->name('events');
 Route::get('characters', 'HomeController@characters')->name('characters');
-Route::get('character/{id}', 'HomeController@character')->name('character');
+Route::get('characters/{id}', 'HomeController@character')->name('character');

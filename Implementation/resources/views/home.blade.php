@@ -111,11 +111,11 @@
                         <div class="row ">
                             @foreach($row as $comic)
                                 <div class="col-md-3 col-6 mb-4">
-                                    <a class="normalize-link d-block" href="#">
+                                    <a class="normalize-link d-block" href="{{ route('comic', ['id' => $comic->id]) }}">
                                         <img class="img-fluid mb-2" src="{{ $comic->thumbnail->path }}/portrait_uncanny.{{ $comic->thumbnail->extension }}" alt="{{ $comic->title }}">
                                     </a>
                                     <h6 class="heading ellipsis mb-0">
-                                        <a class="normalize-link" href="#" title="{{ $comic->title }}">{{ $comic->title }}</a>
+                                        <a class="normalize-link" href="{{ route('comic', ['id' => $comic->id]) }}" title="{{ $comic->title }}">{{ $comic->title }}</a>
                                     </h6>
                                     <p>{{ collect($comic->characters->items)->pluck('name')->take(2)->implode(', ') }}</p>
                                 </div>
