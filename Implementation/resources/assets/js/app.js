@@ -18,6 +18,8 @@ window.Glide = Glide;
  */
 
 Vue.component('comic-list', require('./components/ComicList.vue'));
+Vue.component('character-list', require('./components/CharacterList.vue'));
+Vue.component('events-list', require('./components/EventList'));
 //
 const app = new Vue({
     el: '#vue-app'

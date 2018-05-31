@@ -10,7 +10,7 @@
                 limit: 20,
                 loading: false,
                 filters: {
-                    title: ''
+                    name: ''
                 }
             }
         },
@@ -30,7 +30,7 @@
         methods: {
             async getItems() {
                 this.loading = true;
-                const {data} = await axios.get('https://gateway.marvel.com:443/v1/public/comics', {
+                const {data} = await axios.get('https://gateway.marvel.com:443/v1/public/characters', {
                     params: this.buildParams()
                 });
 
@@ -43,11 +43,11 @@
                 const base =  {
                     limit: this.limit,
                     offset: this.limit * this.page,
-                    hasDigitalIssue: true
+                    orderBy: '-modified'
                 };
 
-                if (this.filters.title) {
-                    base['titleStartsWith'] = this.filters.title;
+                if (this.filters.name) {
+                    base['nameStartsWith'] = this.filters.name;
                 }
 
                 return base;
@@ -57,11 +57,7 @@
                 this.page = 0;
                 this.items = [];
                 this.getItems();
-            },
-
-            getCharacters(item) {
-                return item.characters.items.slice(0, 2).map(e => e.name).join(', ');
-            },
+            }
         }
     }
 </script>

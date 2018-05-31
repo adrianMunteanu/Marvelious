@@ -11,13 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 Auth::routes();
 
-Route::get('home', 'HomeController@index')->name('home');
+Route::get('/', 'HomeController@index')->name('home');
 Route::get('comics', 'HomeController@index')->name('comics');
 Route::get('comics/{id}', 'HomeController@comic')->name('comic');
 Route::get('events', 'HomeController@events')->name('events');

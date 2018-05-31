@@ -10769,6 +10769,8 @@ a.text-dark:focus {
   margin-top: 15px;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .nav-item a {

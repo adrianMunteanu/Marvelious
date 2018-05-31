@@ -1,55 +1,57 @@
 .navbar:before {
-  content: "";
-  display: block;
-  width: 100%;
-  height: 15px;
-  top: -15px;
-  left: 0;
-  position: absolute;
-  background: -webkit-gradient(linear, left top, right top, from(#f44336), to(#7b31f4));
-  background: linear-gradient(90deg, #f44336 0, #7b31f4);
+    content: "";
+    display: block;
+    width: 100%;
+    height: 15px;
+    top: -15px;
+    left: 0;
+    position: absolute;
+    background: -webkit-gradient(linear, left top, right top, from(#f44336), to(#7b31f4));
+    background: linear-gradient(90deg, #f44336 0, #7b31f4);
 }
 
 .navbar {
-  padding-top: 2em;
-  padding-bottom: 2em;
-  border-bottom: 1px solid #32333f;
-  position: relative;
-  margin-top: 15px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #32333f;
+    position: relative;
+    margin-top: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+    font-size: 18px;
+    font-weight: 500;
 }
 
 .nav-item a {
-  color: #ffffff;
-  letter-spacing: 2.3px;
-  text-transform: uppercase;
+    color: #ffffff;
+    letter-spacing: 2.3px;
+    text-transform: uppercase;
 }
 
 .nav-item a:hover {
-  color: #f44336;
+    color: #f44336;
 }
 
 .navbar:after {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 50%;
-  z-index: -1;
-  width: 100vw;
-  height: 100vw;
-  background-image: radial-gradient(circle at center, #32333f 0, rgba(50, 51, 63, 0) 66.66%);
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    z-index: -1;
+    width: 100vw;
+    height: 100vw;
+    background-image: radial-gradient(circle at center, #32333f 0, rgba(50, 51, 63, 0) 66.66%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 .navbar-brand {
-  font-family: Lato, sans-serif;
-  font-weight: bold;
-  color: #f3f3f3;
-  letter-spacing: 2px;
+    font-family: Lato, sans-serif;
+    font-weight: bold;
+    color: #f3f3f3;
+    letter-spacing: 2px;
 }
 
 .navbar-brand:hover {
-  color: #f44336;
+    color: #f44336;
 }
