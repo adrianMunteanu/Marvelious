@@ -6,7 +6,7 @@
             <div>
                 <div v-if="items.length" id="timeline">
                     <div class="timeline-card-wrapper">
-                        <div v-for="(item, index) in items" :class="'timeline-card timeline-card--step' + (index + 1)">
+                        <div v-for="(item, index) in items.slice(0, 10)" :class="'timeline-card timeline-card--step' + (index + 1)">
                             <div class="head">
                                 <div class="number-box">
                                     <span>@{{ index < 9 ? '0' : '' }}@{{ index + 1 }}</span>
